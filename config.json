@@ -1,0 +1,10 @@
+{
+    "local_dir": "C:\\chunks\\",
+    "webdav_address": "http://127.0.0.1:8008",
+    "directories": {
+        "CH1" : "/webdav/streaming/",
+        "CH2" : "/webdav/streaming/",
+        "TEST": "/webdav/xstreaming/"
+    },
+    "User-agent": "SSP-IP"
+}
